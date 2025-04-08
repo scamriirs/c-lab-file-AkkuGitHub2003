@@ -1,3 +1,4 @@
+//12.Program to implement constructor.
 using System;
 
 class Student
