@@ -1,3 +1,6 @@
+//Develop the Concept to create a class that does metric conversion from meters, centimeter
+to feet, inches respectively. Create a class called meters.bxt and read the data from the user by prompting.
+Convert this data into feet and inches and save it in another file called feet.txt. [File Handling)
 using System;
 using System.IO;
 
